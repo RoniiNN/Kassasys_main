@@ -1,0 +1,9 @@
+Run Doxywizard
+Select the project folder (POS system)
+Enter project name
+Press "Next"
+Press "Optimize for Java or C#
+Press "Next"
+Press "Next"
+Press "Run Doxygen"
+When done press "Show html output"
